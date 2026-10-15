@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 587886d024e10a5428c2dd6ebb0a941d, type: 3}
+  m_Name: Gunner_Q
+  m_EditorClassIdentifier: Assembly-CSharp::SkillDataInfo
+  Data:
+    icon: {fileID: 140578090, guid: 8e3133a8fdd94fc4381d73faae26c2fe, type: 3}
+    UsingType: 0
+    TargetType: 0
+    DamageData:
+    - BaseDamge: 100
+      MutiplyValue: 50
+      MutiplyType: 1
+      SubMutiplyValue: 0
+      SubMutiplyType: 0

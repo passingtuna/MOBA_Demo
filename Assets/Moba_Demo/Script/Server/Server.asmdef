@@ -1,0 +1,22 @@
+{
+    "name": "Server",
+    "rootNamespace": "",
+    "references": [
+        "GUID:ba6d77ed4da24464a80dd3081e254faf"
+    ],
+    "includePlatforms": [
+        "Editor",
+        "WindowsStandalone32Server",
+        "WindowsStandalone64Server"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        ""
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
